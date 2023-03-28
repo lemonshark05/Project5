@@ -37,7 +37,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 //        if User.current != nil {
 //            login()
 //        }
-    
+//    
     }
 
     private func login() {
