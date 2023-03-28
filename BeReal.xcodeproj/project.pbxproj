@@ -17,7 +17,7 @@
 		D977E45529D164C6007DE050 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D977E45429D164C6007DE050 /* FeedViewController.swift */; };
 		D977E45729D164DC007DE050 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D977E45629D164DC007DE050 /* PostCell.swift */; };
 		D977E45929D164FA007DE050 /* PostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D977E45829D164FA007DE050 /* PostViewController.swift */; };
-		D977E45B29D1652D007DE050 /* DateFormatter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D977E45A29D1652D007DE050 /* DateFormatter.swift */; };
+		D9D60A5329D288EB00244812 /* DateFormatter+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D60A5229D288EB00244812 /* DateFormatter+Extensions.swift */; };
 		D9E84C2A29CA841F00973BB4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E84C2929CA841F00973BB4 /* AppDelegate.swift */; };
 		D9E84C2C29CA841F00973BB4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E84C2B29CA841F00973BB4 /* SceneDelegate.swift */; };
 		D9E84C3129CA841F00973BB4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D9E84C2F29CA841F00973BB4 /* Main.storyboard */; };
@@ -33,7 +33,7 @@
 		D977E45429D164C6007DE050 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		D977E45629D164DC007DE050 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		D977E45829D164FA007DE050 /* PostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostViewController.swift; sourceTree = "<group>"; };
-		D977E45A29D1652D007DE050 /* DateFormatter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormatter.swift; sourceTree = "<group>"; };
+		D9D60A5229D288EB00244812 /* DateFormatter+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DateFormatter+Extensions.swift"; sourceTree = "<group>"; };
 		D9E84C2629CA841F00973BB4 /* BeReal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BeReal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D9E84C2929CA841F00973BB4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D9E84C2B29CA841F00973BB4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -69,7 +69,7 @@
 		D977E43929D160FF007DE050 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				D977E45A29D1652D007DE050 /* DateFormatter.swift */,
+				D9D60A5229D288EB00244812 /* DateFormatter+Extensions.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -219,11 +219,11 @@
 				D977E45329D164A7007DE050 /* SignUpViewController.swift in Sources */,
 				D9E84C2A29CA841F00973BB4 /* AppDelegate.swift in Sources */,
 				D9E84C2C29CA841F00973BB4 /* SceneDelegate.swift in Sources */,
-				D977E45B29D1652D007DE050 /* DateFormatter.swift in Sources */,
 				D977E44D29D1642A007DE050 /* User.swift in Sources */,
 				D977E45129D1648E007DE050 /* LoginViewController.swift in Sources */,
 				D977E44F29D16435007DE050 /* Post.swift in Sources */,
 				D977E45529D164C6007DE050 /* FeedViewController.swift in Sources */,
+				D9D60A5329D288EB00244812 /* DateFormatter+Extensions.swift in Sources */,
 				D977E45729D164DC007DE050 /* PostCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
