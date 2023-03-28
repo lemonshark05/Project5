@@ -12,7 +12,7 @@ import ParseSwift
 class PostViewController: UIViewController {
 
     // MARK: Outlets
-    @IBOutlet weak var shareButton: UIBarButtonItem!
+    @IBOutlet weak var postButton: UIBarButtonItem!
     @IBOutlet weak var captionTextField: UITextField!
     @IBOutlet weak var previewImageView: UIImageView!
 
@@ -22,7 +22,7 @@ class PostViewController: UIViewController {
         super.viewDidLoad()
     }
 
-    @IBAction func onPickedImageTapped(_ sender: UIBarButtonItem) {
+    @IBAction func onPickedImageTapped(_ sender: Any) {
         // Create a configuration object
         var config = PHPickerConfiguration()
 
