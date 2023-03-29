@@ -40,9 +40,8 @@ GIF created with ...
 [Kap](https://getkap.co/) for macOS
 
 
+https://user-images.githubusercontent.com/100770743/228396256-ed4ee755-8adb-460c-9826-dbecf6d688c8.mp4
 
-
-https://user-images.githubusercontent.com/100770743/228130028-14bc3e9e-29e2-4c62-8420-2708cc02e113.mp4
 
 
 ## Notes
