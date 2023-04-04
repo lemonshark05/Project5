@@ -17,8 +17,8 @@ The following **required** functionality is completed:
  
 The following **optional** features are implemented:
 
-- [ ] User receive notifcation when it is time to post
-- [X] Users can make comments and view comments in posts	
+- [X] User receive notifcation when it is time to post
+- [ ] Users can make comments and view comments in posts	
 
 The following **additional** features are implemented:
 
@@ -29,7 +29,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://user-images.githubusercontent.com/100770743/229711818-38d94cfe-cb8a-4085-8a31-810b019e9119.mp4
+
+https://user-images.githubusercontent.com/100770743/229713100-0ec788d4-3acd-4da5-8b88-acf6a85fb8c8.mp4
+
+
 
 ## Notes
 
