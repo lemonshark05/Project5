@@ -1,48 +1,35 @@
-# Project 5 - *BeReal Clone*
+# Project 6 - *BeReal Clone*
 
 Submitted by: **zhimin**
 
-**BeReal Clone** is an app that is the first part of a two-part project which clones some of the main functionalities of the trending app called BeReal. In this app, users post a photo of what they’re currently doing upon receiving a random notification during the day. Only after posting a photo can the user see their friends’ photos. 
+**BeReal Clonep** is an app
 
-Time spent: **6** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [x] User can register a new account
-- [x] User can log in with newly created account
-- [x] App has a feed of posts when user logs in
-- [x] User can upload a new post which takes in a picture from photo library and a caption	
+- [X] User can launch camera to take photo instead of photo library
+- [X] User session persists when application is closed and relaunched
+- [X] Users are able to log out and return to sign in page
+- [X] Users are NOT able to see other photos until they upload their own	
  
 The following **optional** features are implemented:
 
-- [x] Users can pull to refresh their feed and see a loading indicator
-- [x] Users can infinite-scroll in their feed to see past the 10 most recent photos
-- [x] Users can see location and time of photo upload in the feed	
-- [x] User is able to logout
-- [x] User stays logged in when app is closed and open again	
-
+- [ ] User receive notifcation when it is time to post
+- [X] Users can make comments and view comments in posts	
 
 The following **additional** features are implemented:
 
-- [x] Try to rearrange the layout according to the gif
+- [ ] List anything else that you can get done to improve the app functionality!
+
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-
-
-https://user-images.githubusercontent.com/100770743/228396256-ed4ee755-8adb-460c-9826-dbecf6d688c8.mp4
-
-
+https://user-images.githubusercontent.com/100770743/229711818-38d94cfe-cb8a-4085-8a31-810b019e9119.mp4
 
 ## Notes
 
@@ -50,7 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [2023] [zhimin meng]
+    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
