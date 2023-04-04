@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [x] can use the camera function
 
 
 ## Video Walkthrough
@@ -31,6 +31,10 @@ Here's a walkthrough of implemented user stories:
 
 
 https://user-images.githubusercontent.com/100770743/229713100-0ec788d4-3acd-4da5-8b88-acf6a85fb8c8.mp4
+
+
+
+https://user-images.githubusercontent.com/100770743/229860433-45a1abfe-2559-4603-aa44-7ed2fad0bfa8.mp4
 
 
 
